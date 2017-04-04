@@ -1,7 +1,8 @@
-int		main(void)
+int							 MAIN()
 {
-	int	a;
-			
 	a = 10;
-	return (0);
+	a = a +1;
+
+
+	return 0;
 }

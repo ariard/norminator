@@ -1,0 +1,21 @@
+keywords spaces, syntax :
+- "missing space after if"
+- "missing parentheses in return statement"
+
+
+operators spaces, syntax:
+- "missing space around +"
+
+whitespaces :
+- "multiple empty lines"
+- "empty line"
+
+definitions spaces, syntax :
+- "space before function name"
+- "missing void in function main"
+
+declarations spaces, syntax :
+- "declarations must be followed by one empty line in main"
+
+variables spaces, syntax :
+- "ABC not unixcase"
